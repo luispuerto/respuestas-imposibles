@@ -83,7 +83,7 @@ paginate_path: "/:num/"
 projects: false
 
 # if you don't need "about" or "blog", comment them out below
-about: false
+about: true
 blog: true
 
 # if you don't need "home"
