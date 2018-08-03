@@ -8,8 +8,25 @@ layout: page
 
 <h1 class="title">{{ page.title }}</h1>
 
+{% assign m = page.date | date: "%-m" %}
 <span class="date">
-    <time datetime="{{ page.date | date:"%d-%m-%Y" }}">{{ page.date | date: "%A. %B %d, %Y" }}</time>
+    <time datetime="{{ page.date | date: "%-d de" }}">
+      {{ page.date | date: "%-d de" }}
+      {% case m %}
+        {% when '1' %}enero
+        {% when '2' %}febrero
+        {% when '3' %}marzo
+        {% when '4' %}abril
+        {% when '5' %}mayo
+        {% when '6' %}junio
+        {% when '7' %}julio
+        {% when '8' %}agosto
+        {% when '9' %}septiembre
+        {% when '10' %}octubre
+        {% when '11' %}noviembre
+        {% when '12' %}diciembre
+      {% endcase %}
+      {{ page.date | date: "de %Y" }}</time>
     {% if site.read-time %} - {% include read-time.html %}{% endif %}
 </span>
 
