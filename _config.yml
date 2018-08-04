@@ -22,7 +22,7 @@ resume-url: https://google.com/?q=my+resume
 url: https://respuestas-imposibles.luisspuerto.net
 # your url: http://USERNAME.github.io
 
-permalink: /:title/
+permalink: /blog/:title/
 
 # To enable google analytics, supply your token below
 analytics-google: 'UA-1931812-2'
@@ -164,9 +164,9 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
+#  - assets/js/plugins
+#  - assets/js/_main.js
+#  - assets/js/vendor
   - Capfile
   - CHANGELOG
   - config
