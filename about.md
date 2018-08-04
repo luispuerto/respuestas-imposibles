@@ -3,7 +3,7 @@ title: "Sobre este blog"
 layout: page
 date: 2018-08-03 16:00
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![Profile Image]({{ site.url }}/{{ site.picture }}){: .align-center style="width: 50%"}
 
 # Sobre este blog — Q&A
 
