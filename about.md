@@ -15,11 +15,11 @@ date: 2018-08-03 16:00
 
 ## Que es este blog?
 
-Este blog es, o trata de ser, una compilación de respuestas largas que doy a opiniones y comentarios que se producen en un grupo de WhatsApp que tengo con mis amigos y cuya temática es la política y otros temas de carácter intelectual :nerd_face: y cuyo nombre es "*Club de los Imposibles*". Este blog es un intento de dar respuesta de una manera más eficiente y ordenada a esas ideas, comentarios, opiniones, etc... 
+Este blog es, o trata de ser, una compilación de respuestas largas que doy a opiniones y comentarios que se producen en un grupo de WhatsApp que tengo con mis amigos y cuya temática es la política y otros temas de carácter intelectual 🤓 y cuyo nombre es "*Club de los Imposibles*". Este blog es un intento de dar respuesta de una manera más eficiente y ordenada a esas ideas, comentarios, opiniones, etc... 
 
 ## Por qué este blog?
 
-Básicamente porque no considero que WhatsApp sea un medio cómodo para exponer y explicar argumentos complejos, algo que es muy común en política o en casi cualquier otro tema de indole intelectual :nerd_face: . Ya sea en su formato móvil, o en su formato pagina web, WhatsApp apesta :nose:—y con perdón— para algo así. No permite verter contenidos con comodidad, formatearlos, o editarlos de manera cómoda y que sirvan para realmente para exponer un argumento y dialogar con personas.  
+Básicamente porque no considero que WhatsApp sea un medio cómodo para exponer y explicar argumentos complejos, algo que es muy común en política o en casi cualquier otro tema de indole intelectual 🤓. Ya sea en su formato móvil, o en su formato pagina web, WhatsApp apesta ​👃🏻​—y con perdón— para algo así. No permite verter contenidos con comodidad, formatearlos, o editarlos de manera cómoda y que sirvan para realmente para exponer un argumento y dialogar con personas.  
 
 ## Cual es el objetivo?
 
