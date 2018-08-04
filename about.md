@@ -15,11 +15,11 @@ date: 2018-08-03 16:00
 
 ## Que es este blog?
 
-Este blog es, o trata de ser, una compilación de respuestas largas que doy a opiniones y comentarios que se producen en un grupo de WhatsApp que tengo con mis amigos y cuya temática es la política y otros temas de carácter intelectual 🤓 y cuyo nombre es "*Club de los Imposibles*". Este blog es un intento de dar respuesta de una manera más eficiente y ordenada a esas ideas, comentarios, opiniones, etc... 
+Este blog es, o trata de ser, una compilación de respuestas largas que doy a opiniones y comentarios que se producen en un grupo de WhatsApp que tengo con mis amigos y cuya temática es la política y otros temas de carácter intelectual :nerd_face: y cuyo nombre es "*Club de los Imposibles*". Este blog es un intento de dar respuesta de una manera más eficiente y ordenada a esas ideas, comentarios, opiniones, etc... 
 
 ## Por qué este blog?
 
-Básicamente porque no considero que WhatsApp sea un medio cómodo para exponer y explicar argumentos complejos, algo que es muy común en política o en casi cualquier otro tema de indole intelectual 🤓. Ya sea en su formato móvil, o en su formato pagina web, WhatsApp apesta 👃🏻—y con perdón— para algo así. No permite verter contenidos con comodidad, formatearlos, o editarlos de manera cómoda y que sirvan para realmente para exponer un argumento y dialogar con personas.  :nose:
+Básicamente porque no considero que WhatsApp sea un medio cómodo para exponer y explicar argumentos complejos, algo que es muy común en política o en casi cualquier otro tema de indole intelectual :nerd_face: . Ya sea en su formato móvil, o en su formato pagina web, WhatsApp apesta :nose:—y con perdón— para algo así. No permite verter contenidos con comodidad, formatearlos, o editarlos de manera cómoda y que sirvan para realmente para exponer un argumento y dialogar con personas.  
 
 ## Cual es el objetivo?
 
@@ -27,7 +27,7 @@ Este es un intento de controlar la conversación un poco, sin controlar a nadie 
 
 ## De donde ha salido esta idea loca? 
 
-Pues basicamente el *otro día* necesitaba dar una repuesta larga y bien explicada sobre un tema que me parecía importante. En el móvil me parece difícil hacer ese tipo de ejercicios, y en la web más o menos lo mismo, así que me puse a pensar como lo podría hacer de una forma más cómoda. Como recientemente he desarrollado un par de paginas web, y tengo sub-dominios infinitos, pensé que sería una buena idea hacer algo así. Ya sabes, cuando tienes un martillo, todos son clavos... o cuando lo has usado recientemente. 
+Pues basicamente el *otro día* necesitaba dar una repuesta larga y bien explicada sobre un tema que me parecía importante. En el móvil me parece difícil hacer ese tipo de ejercicios, y en la web más o menos lo mismo, así que me puse a pensar como lo podría hacer de una forma más cómoda. Como recientemente he desarrollado un par de paginas web, y tengo sub-dominios infinitos, pensé que sería una buena idea hacer algo así. Ya sabes, cuando tienes un martillo, todos son clavos... o cuando lo has usado recientemente.  
 
 ## Cual es el objetivo?
 
