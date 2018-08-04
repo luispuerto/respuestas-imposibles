@@ -19,19 +19,25 @@ Este blog es, o trata de ser, una compilación de respuestas largas que doy a op
 
 ## Por qué este blog?
 
-Básicamente porque no considero que WhatsApp sea un medio cómodo para exponer y explicar argumentos complejos, algo que es muy común en política o en casi cualquier otro tema de indole intelectual 🤓. Ya sea en su formato móvil, o en su formato pagina web, WhatsApp apesta ​👃🏻​—y con perdón— para algo así. No permite verter contenidos con comodidad, formatearlos, o editarlos de manera cómoda y que sirvan para realmente para exponer un argumento y dialogar con personas.  
+Básicamente porque no considero que WhatsApp sea un medio cómodo para exponer y explicar argumentos complejos, algo que es muy común en los temas que tratamos en *el grupo* o en casi cualquier otro tema de indole intelectual 🤓. Ya sea en su formato móvil, o en su formato pagina web, WhatsApp apesta 👃🏻—y con perdón— para algo así. No permite verter contenidos con comodidad, formatearlos, o editarlos de manera cómoda y que sirvan para realmente para exponer un argumento y dialogar con personas.  
+
+## Cual es el problema que tiene WhatsApp?
+
+El problema, fundamentalmente, es que WhatApp ha sido diseñada para el intercambio de mensaje cortos y rápidos. De verdad crees que se puede hablar de política, o de lo que sea, con una tecnología que supuestamente viene a sustituir a otra que estaba limitada a 160 caracteres y que fundamentalmente se usa en un pantalla de aproximada 5"? Entiendo que no vamos a ponernos entre todos a destilar el 4º volumen de *[Das Kapital](https://en.wikipedia.org/wiki/Das_Kapital)*, pero yo si que echo en falta un poco más de desarrollo de las ideas.  WhatsApp no permite casi dar formato al texto, ni crear enlaces —referencias— ni poner alguna imagen decentemente, ni na de na... 
+
+### Y Twitter? 
+
+> Twitter es muy parecido al WhatsApp y ahí todo el mundo habla de política y da su opinion y blablablablaaaaaaaaa
+
+Si si... A mi me encanta Twitter, y creo que es una herramienta estupenda para conocer y comunicar ideas, pero también creo que es parte del problema politico de hoy. No solo Twitter, sino el resto de las redes sociales. Nos quedamos solo con el titular de las noticias, y no leemos más allá. Twitter es estupendo para comunicar concisamente y de una manera inmediata, y aunque la brevedad se aprecia un montón en un mundo en que hay exceso de información, algunas veces es excesivamente breve. WhatsApp es parecido y necesitamos algo más, al menos yo. 
 
 ## Cual es el objetivo?
 
-Este es un intento de controlar la conversación un poco, sin controlar a nadie y que todo el mundo siga donde parece que quiere estar, que es hablando y dialogando en un grupo de WhatsApp, mientras yo trato de alejarme un poco y tomo un poco de perspectiva. 
+El objetivo, es ni más ni menos que volver *a controlar la conversación*, pero no solo quiero controlarla yo, sino que quiero que la controlemos todos en conjunto. Quiero que nos volvamos escuchar y comprender, y  que lo que haya **[dialogo](https://en.wikipedia.org/wiki/Dialogue)**[^1], y que nos dejemos de discursión  Este es un intento de controlar la conversación un poco, sin controlar a nadie y que todo el mundo siga donde parece que quiere estar, que es hablando y dialogando en un grupo de WhatsApp, mientras yo trato de alejarme un poco y tomo un poco de perspectiva. 
 
 ## De donde ha salido esta idea loca? 
 
 Pues basicamente el *otro día* necesitaba dar una repuesta larga y bien explicada sobre un tema que me parecía importante. En el móvil me parece difícil hacer ese tipo de ejercicios, y en la web más o menos lo mismo, así que me puse a pensar como lo podría hacer de una forma más cómoda. Como recientemente he desarrollado un par de paginas web, y tengo sub-dominios infinitos, pensé que sería una buena idea hacer algo así. Ya sabes, cuando tienes un martillo, todos son clavos... o cuando lo has usado recientemente.  
-
-## Cual es el objetivo?
-
-El objetivo como ya he dicho arriba es *controlar la conversación de nuevo* y dejar 
 
 ## Como participar?
 
@@ -97,3 +103,8 @@ Este blog está construido en Jekyll, que es un *motor* para generar webs estát
 ## Privacidad
 
 Se que muchos de vosotros os preocupa la privacidad y por eso la intención es de no mencionar a nadie en concreto para que nadie se le asocie con ninguna opinión, que el fondo ha sido vertida en un grupo que es privado y así debe de continuar. 
+
+
+
+[^1]: The term dialogue stems from the Greek διάλογος (*dialogos*, **conversation**); its roots are διά (*dia*: **through**) and λόγος (*logos*: speech, **reason**). The first extant author who uses the term is Plato, in whose works it is closely associated with the art of dialectic.[[5\]](https://en.wikipedia.org/wiki/Dialogue#cite_note-5) Latin took over the word as *dialogus*.[[6\]](https://en.wikipedia.org/wiki/Dialogue#cite_note-6). [Source](https://en.wikipedia.org/wiki/Dialogue#Etymology).  
+
