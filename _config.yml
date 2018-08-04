@@ -115,6 +115,15 @@ plugins:
   - jekyll-admin
   - jekyll-paginate
 
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+
 jekyll-mentions:
     base_url: https://github.com
 
@@ -178,6 +187,7 @@ exclude:
 keep_files:
   - .git
   - .svn
+
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
