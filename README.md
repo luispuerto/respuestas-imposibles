@@ -11,5 +11,3 @@ Well, the main reason because I trying to reply through things mean is because i
 ## Note
 
 The site isn't private, but it isn't indexed by web crawlers. I don't want to hide anything I publish here, but I don't want to publicize the site and try to keep it for the use of the group mainly.  
-
-:nerd_face:
