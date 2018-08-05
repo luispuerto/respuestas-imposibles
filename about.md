@@ -27,9 +27,11 @@ El problema, fundamentalmente, es que WhatApp ha sido diseñada para el intercam
 
 ### Y Twitter? 
 
-> Twitter es muy parecido al WhatsApp y ahí todo el mundo habla de política y da su opinion y blablablablaaaaaaaaa
+Seguro que muchos de vosotros estáis pensando: 
 
-Si si... A mi me encanta Twitter, y creo que es una herramienta estupenda para conocer y comunicar ideas, pero también creo que es parte del problema politico de hoy. No solo Twitter, sino el resto de las redes sociales. Nos quedamos solo con el titular de las noticias, y no leemos más allá. Twitter es estupendo para comunicar concisamente y de una manera inmediata, y aunque la brevedad se aprecia un montón en un mundo en que hay exceso de información, algunas veces es excesivamente breve. WhatsApp es parecido y necesitamos algo más, al menos yo. 
+> Y Twitter, que pasa con Twitter? Twitter es muy parecido al WhatsApp y ahí todo el mundo habla de política y da su opinion y blablablablaaaaaaaaa 💤
+
+Si si... A mi me encanta Twitter, y creo que es una herramienta estupenda para conocer y comunicar ideas, pero también creo que es parte del problema politico de hoy en día. No solo Twitter, sino la gran mayoría de las redes sociales. Este problema no es algo nueva, y siempre que aparecen herramientas nuevas que se usan a *escala masiva*[^2] nos pasan cosas parecidas. Nos quedamos solo con el titular de las noticias, y no leemos más allá. No se analiza el **por qué?**[^3], ni el como, ni el donde, ni quien, ni na de na. Twitter es estupendo para comunicar concisamente y de una manera inmediata, y aunque la brevedad se aprecia un montón en un mundo en que hay exceso de información, algunas veces es excesivamente breve. WhatsApp es parecido y necesitamos algo más, al menos yo. 
 
 ## Cual es el objetivo?
 
@@ -50,6 +52,10 @@ Esta es la opción más fácil, o lo que es lo mismo pensar que estoy zumbado y 
 ### Responder en el grupo de WhatsApp
 
 Esta también es una opción muy fácil, lees lo que pongo aquí y comentas en el grupo de Whatsapp como si ahí se hubiera escrito. 
+
+---
+
+https://www.youtube.com/watch?v=JhHMJCUmq28
 
 ### Comentando en los post
 
@@ -106,5 +112,11 @@ Se que muchos de vosotros os preocupa la privacidad y por eso la intención es d
 
 
 
-[^1]: The term dialogue stems from the Greek διάλογος (*dialogos*, **conversation**); its roots are διά (*dia*: **through**) and λόγος (*logos*: speech, **reason**). The first extant author who uses the term is Plato, in whose works it is closely associated with the art of dialectic.[[5\]](https://en.wikipedia.org/wiki/Dialogue#cite_note-5) Latin took over the word as *dialogus*.[[6\]](https://en.wikipedia.org/wiki/Dialogue#cite_note-6). [Source](https://en.wikipedia.org/wiki/Dialogue#Etymology).  
+
+
+
+
+[^1]: The term dialogue stems from the Greek διάλογος (*dialogos*, **conversation**); its roots are διά (*dia*: **through**) and λόγος (*logos*: speech, **reason**). The first extant author who uses the term is Plato, in whose works it is closely associated with the art of dialectic.[[5\]](https://en.wikipedia.org/wiki/Dialogue#cite_note-5) Latin took over the word as *dialogus*.[[6\]](https://en.wikipedia.org/wiki/Dialogue#cite_note-6). [Source](https://en.wikipedia.org/wiki/Dialogue#Etymology).
+[^2]: Uso cursiva porque lo de escala masiva ha acabado pasando con otros medios de comunicación en el pasado. Desde los [libros](https://www.youtube.com/watch?v=pQHX-SjgQvQ), el boca-oreja, la [radio](https://en.wikipedia.org/wiki/The_War_of_the_Worlds_(radio_drama) ), los [periódicos](https://en.wikipedia.org/wiki/Citizen_Kane) o la televisión. Los *nuevos* medios de comunicación siempre han acabado usándose masivamente en un momento u otro, y ahn acabado  mal.
+[^3]: Realmente el **por qué?** de una noticia o de un suceso suele ser lo más importante y normalmente no se explica.
 
