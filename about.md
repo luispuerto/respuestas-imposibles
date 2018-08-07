@@ -13,7 +13,7 @@ date: 2018-08-03 16:00
 {:toc}
 ---
 
-## Que es este blog?
+## Que es este blog? :poop:
 
 Este blog es, o trata de ser, una compilación de respuestas largas que doy a opiniones y comentarios que se producen en un grupo de WhatsApp que tengo con mis amigos y cuya temática es la política y otros temas de carácter intelectual 🤓 y cuyo nombre es "*Club de los Imposibles*". Este blog es un intento de dar respuesta de una manera más eficiente y ordenada a esas ideas, comentarios, opiniones, etc... 
 
