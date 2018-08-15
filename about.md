@@ -13,13 +13,13 @@ date: 2018-08-03 16:00
 {:toc}
 ---
 
-## Que es este blog? 
+## Que es este blog?
 
-Este blog es, o trata de ser, una compilación de respuestas largas que doy a opiniones y comentarios que se producen en un grupo de WhatsApp que tengo con mis amigos y cuya temática es la política y otros temas de carácter intelectual 🤓 y cuyo nombre es "*Club de los Imposibles*". Este blog es un intento de dar respuesta de una manera más eficiente y ordenada a esas ideas, comentarios, opiniones, etc... 
+Este blog es, o trata de ser, una compilación de respuestas largas que doy a opiniones y comentarios que se producen en un grupo de WhatsApp que tengo con mis amigos y cuya temática es la política y otros temas de carácter intelectual :nerd_face: y cuyo nombre es "*Club de los Imposibles*". Este blog es un intento de dar respuesta de una manera más eficiente y ordenada a esas ideas, comentarios, opiniones, etc... 
 
 ## Por qué este blog?
 
-Básicamente porque no considero que WhatsApp sea un medio cómodo para exponer y explicar argumentos complejos, algo que es muy común en los temas que tratamos en *el grupo* o en casi cualquier otro tema de indole intelectual 🤓. Ya sea en su formato móvil, o en su formato pagina web, WhatsApp apesta 👃🏻—y con perdón— para algo así. No permite verter contenidos con comodidad, formatearlos, o editarlos de manera cómoda y que sirvan para realmente para exponer un argumento y dialogar con personas.  
+Básicamente porque no considero que WhatsApp sea un medio cómodo para exponer y explicar argumentos complejos, algo que es muy común en los temas que tratamos en *el grupo* o en casi cualquier otro tema de indole intelectual :nerd_face: . Ya sea en su formato móvil, o en su formato pagina web, WhatsApp apesta :nose:—y con perdón— para algo así. No permite verter contenidos con comodidad, formatearlos, o editarlos de manera cómoda y que sirvan para realmente para exponer un argumento y dialogar con personas.  
 
 ## Cual es el problema que tiene WhatsApp?
 
@@ -29,7 +29,7 @@ El problema, fundamentalmente, es que WhatApp ha sido diseñada para el intercam
 
 Seguro que muchos de vosotros estáis pensando: 
 
-> Y Twitter, que pasa con Twitter? Twitter es muy parecido al WhatsApp y ahí todo el mundo habla de política y da su opinion y blablablablaaaaaaaaa 💤
+> Y Twitter, que pasa con Twitter? Twitter es muy parecido al WhatsApp y ahí todo el mundo habla de política y da su opinion y blablablablaaaaaaaaa :zzz:
 
 Si si... A mi me encanta Twitter, y creo que es una herramienta estupenda para conocer y comunicar ideas, pero también creo que es parte del problema politico de hoy en día. No solo Twitter, sino la gran mayoría de las redes sociales. Este problema no es algo nueva, y siempre que aparecen herramientas nuevas que se usan a *escala masiva*[^2] nos pasan cosas parecidas. Nos quedamos solo con el titular de las noticias, y no leemos más allá. No se analiza el **por qué?**[^3], ni el como, ni el donde, ni quien, ni na de na. Twitter es estupendo para comunicar concisamente y de una manera inmediata, y aunque la brevedad se aprecia un montón en un mundo en que hay exceso de información, algunas veces es excesivamente breve. WhatsApp es parecido y necesitamos algo más, al menos yo. 
 
