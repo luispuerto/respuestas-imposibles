@@ -122,7 +122,7 @@ Aunque el blog es público, no está indexado por google... [robot.txt](http://w
 
 ## Por qué tanto emoji?
 
-Basicamente... por tocar los :fried_egg: y es tan :monkey:. 
+Basicamente... por tocar los :fried_egg: y porque es tan :monkey:. 
 
 
 
