@@ -8,12 +8,12 @@ title: Tags
     {% assign tags_list = site.tags %}
 
     {% if tags_list.first[0] == null %}
-        {% for tag in tags_list %}
-            <a class="item" href="#{{ tag | slugify }}">{{ tag }}</a>
+        {% for tags in tags_list %}
+            <a class="item" href="#{{ tags | slugify }}">{{ tags }}</a>
         {% endfor %}
     {% else %}
-        {% for tag in tags_list %}
-            <a class="item" href="#{{ tag[0] | slugify }}">{{ tag[0] }}</a>
+        {% for tags in tags_list %}
+            <a class="item" href="#{{ tags[0] | slugify }}">{{ tags[0] }}</a>
         {% endfor %}
     {% endif %}
 
@@ -23,11 +23,11 @@ title: Tags
 <hr>
 
 <section class="tag-list">
-    {% for tag in site.tags  %}
-    <h2 class="title" id="{{ tag[0] | slugify }}">#{{ tag[0] }}</h2>
+    {% for tags in site.tags  %}
+    <h2 class="title" id="{{ tags[0] | slugify }}">#{{ tags[0] }}</h2>
 
     <ul class="list">
-        {% assign pages_list = tag[1] %}
+        {% assign pages_list = tags[1] %}
         {% for post in pages_list reversed %}
             {% if post.title != null %}
                 {% if group == null or group == post.group %}
