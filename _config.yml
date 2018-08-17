@@ -201,5 +201,5 @@ defaults:
       layout: post
       category: blog
       author: bambam
-      tag:
+      tags:
         - # needs an empty tag to display date properly
