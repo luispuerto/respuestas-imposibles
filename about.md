@@ -104,7 +104,7 @@ Si, claro que las hay, las opciones como la verdad querido Mulder, [están ahí 
 
 ## Por qué Pedro Picapiedra Pablo Marmol presiden este blog?
 
-Si a estas alturas de la peli :movie_camera: no sabes que quien gobierna en España es [Pedro "Picapiedra" Sánchez y Pablo "Marmol" Iglesias](https://www.youtube.com/watch?v=FUaxFEZkJJo), apaga :fire_engine: y vámonos :runner:. Agárrense que vienen curvas. :fire
+Si a estas alturas de la peli :movie_camera: no sabes que quien gobierna en España es [Pedro "Picapiedra" Sánchez y Pablo "Marmol" Iglesias](https://www.youtube.com/watch?v=FUaxFEZkJJo), apaga :fire_engine: y vámonos :runner:. Agárrense que vienen curvas.
 
 ## Como he construido este blog?
 
