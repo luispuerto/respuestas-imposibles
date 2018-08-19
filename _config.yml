@@ -22,7 +22,11 @@ resume-url: https://google.com/?q=my+resume
 url: https://respuestas-imposibles.luisspuerto.net
 # your url: http://USERNAME.github.io
 
-permalink: /blog/:title/
+# Outputting
+permalink: /blog/:year/:month/:day/:title/
+paginate: 20 # amount of posts to show
+paginate_path: /blog/page:num/
+timezone: UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # To enable google analytics, supply your token below
 analytics-google: 'UA-1931812-2'
@@ -74,10 +78,6 @@ authors:
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
 width: large
-
-# if you don't need pagination, comment the *paginate* configs below
-paginate: 5
-paginate_path: "/:num/"
 
 # if you don't need projects, comment the *projects* configs below
 projects: false
