@@ -12,9 +12,9 @@ tags:
 
 El otro día me estuve viendo un documental en Netflix que se llama [*Nobody Speaks: Trials of the Free Press*](https://en.wikipedia.org/wiki/Nobody_Speak:_Trials_of_the_Free_Press). El documental en si no es nada del otro mundo más bien pasable, aunque lo que cuenta es interesante. 
 
-Resumiendo mucho... el documental va sobre el efecto que tienen las grandes fortunas y las personas con mucho poder sobre la libertad de prensa y lo que es más importante sobre la independencia de la prensa. El documental gira básicamente en torno a dos casos. Por un lado una denuncia de [Hulk Hogan](https://en.wikipedia.org/wiki/Hulk_Hogan) al medio online [Gawker](https://en.wikipedia.org/wiki/Gawker_Media) por haber sacado a relucir un video sexual suyo. En este particular caso Hulk Hogan estaba subvencionado por el millonario [Peter Thiel](https://en.wikipedia.org/wiki/Peter_Thiel), el cual tiene unas ideas más que excéntricas. En el segundo caso, se cuenta la compra de forma anónima por parte del millonario de los casinos [Sheldon Adelson](https://en.wikipedia.org/wiki/Sheldon_Adelson) del periódico [Las Vegas Review-Journal](https://en.wikipedia.org/wiki/Las_Vegas_Review-Journal). 
+Resumiendo mucho... el documental va sobre el efecto que tienen las grandes fortunas y las personas con mucho poder sobre la libertad de prensa y lo que es más importante sobre la independencia de la prensa. El documental gira básicamente en torno a dos casos. Por un lado una denuncia de [Hulk Hogan](https://en.wikipedia.org/wiki/Hulk_Hogan) al medio online [Gawker](https://en.wikipedia.org/wiki/Gawker_Media) por haber sacado a relucir un video sexual suyo. En este particular caso Hulk Hogan estaba subvencionado por el millonario [Peter Thiel](https://en.wikipedia.org/wiki/Peter_Thiel), el cual tiene unas ideas más que excéntricas. En el segundo caso, se cuenta la compra de forma anónima por parte del millonario de los casinos [Sheldon Adelson](https://en.wikipedia.org/wiki/Sheldon_Adelson) del periódico [Las Vegas Review-Journal](https://en.wikipedia.org/wiki/Las_Vegas_Review-Journal). 
 
-https://youtu.be/B7axDNVYtP4
+[https://youtu.be/B7axDNVYtP4](https://youtu.be/B7axDNVYtP4)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B7axDNVYtP4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>{: .align-center-full}
 
