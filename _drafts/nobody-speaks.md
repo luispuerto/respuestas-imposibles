@@ -43,11 +43,18 @@ Si el medio no es del gobierno, se entiende que es o de una persona privada o de
 Esos desequilibrios se producen muchas veces de forma intencionada por alguno de los actores quería inclinar la balanza hacia su lado. Algunas de las típicos desequilibrios son. 
 
 * Los inversores / o el gobierno en ocasiones deciden cambiar la linea editorial del medio para servir a sus intereses particulares. 
-* Lo s
+* El gobierno / los anunciantes extorsionan / sobornan a los periodistas / o al medio con retirar la publicidad (institucional o comercial) que supone un gran aporte para el periódico. 
+* Los medios / periodistas extorsionan al gobierno con publicar trapos sucios —reales o no— en caso de que no contraten con ellos publicidad institucional. 
 
-## Lo gratis y el declive de la calidad e independencia
+Como veis, nadie es inocente en este *trio*.  
 
-Vivimos en una sociedad en la que nos gusta que nos den cosas *gratis*. Yo no voy a ser el que niegue nada sombre las cosas gratis —*a caballo :horse:  regalado no le mires el diente*— pero el problema es que algunos caballos que se dan gratis tienen la peste y si los traes al establo pueden contagiar a otros caballos... 
+## De lo gratis al descenso de la independencia
+
+Vivimos en una sociedad en la que nos gusta que nos den cosas *gratis*. Yo no voy a ser que diga que no le gusta que le den esas cosas gratis —*a caballo :horse:  regalado no le mires el diente*. El problema es que muchas veces ese caballo trae consigo ciertas enfermedades que pueden afectar a otros caballos del establo. 
+
+Algo que ha incrementado nuestro deseo, o mejor dicho, que nos a acostumbrado, a las cosas gratis es internet. En la era de internet hay un montón de cosas gratis que se pueden encontrar en la red. Películas, música, servicios como correo electrónico o alojamiento web. 
+
+NO aquí no se escribo mejor y la cosa va a trompicones. será poruqe 
 
 Todo este afán por conseguir cosas gratis se ha incrementado en la era de internet, donde es fácil conseguir *cosas* gratis, y sobre todo información, ya sea de forma legal o ilegal. Y esto en general es algo bueno. Es más fácil educarse y aprender que nunca y la información fluye más rápido que nunca. 
 
