@@ -1,5 +1,5 @@
 ---
-title: "Repuestas a Anguita"
+title: "Respuestas a Anguita"
 date: 2018-09-27 7:00
 image: https://www.eldiario.es/fotos/Portada-Hermano-Lobo-caos_EDIIMA20180531_0444_21.jpg
 headerImage: true 
@@ -22,11 +22,11 @@ Para empezar yo no quiero escoger ante nada... pero aquí todos, absolutamente t
 
 Estoy un poco hasta las narices de esta frasecita... —que mucho se usa en ambos lados de la bancada— y que destila desconocimiento y falta de responsabilidad. Los mercados ni dictan ni dejan de dictar nada, y no hay que los mercados están formados por personas, muchas personas, que toman decisiones en función de situaciones. Dicho esto... el problema que hay aquí es un problema de responsabilidad respecto a esto, y que los politicos, los países, y algunos ciudadanos estaban acostumbrado ha hacer lo que les daba la gana con moneda, pagando lo siempre claramente. A cambiado mucho ahora?, no. Pero lo que no tiene sentido es que si vives a crédito le heches la culpa al que le pides el crédito de que no puedas pagar, y que cuando no pages, quiera garantías de que va a pagar si pides más dinero.  Esa es toda la dictadura que hay... 
 
-Además, si queremos que esto cambie —para lo cual hay que hace que el sistema cambie— no podemos volver a los pequeños _estados-naciones_ que habla Anguita, porque en Europa no hay ningún puñetero país ahora misma que tenga la sufiente palanca para cambiar absolutamente nada. Y por eso la postura de Yanis Varoufakis me parece muchísimo más acertada —y aunque como siempre uno no puede coincidir en todo con nadie— coincido bastante. La respuesta es Europa, democratizar europa, hacerlo más aun, y crear una europa social y competitiva, y que de verdad destile valores Europeos [^1]. Para para conseguir eso hay qeu trabajarlo, no va a llegar solo ni nadie lo va a regalar. Y por volver a esos _estados-naciones_ no vamos a tener mejores valores —puedes ver lo está pasando con el Brexit y las razones por las que se ha gestado. 
+Además, si queremos que esto cambie —para lo cual hay que hace que el sistema cambie— no podemos volver a los pequeños _estados-naciones_ que habla Anguita, porque en Europa no hay ningún puñetero país ahora misma que tenga la sufiente palanca para cambiar absolutamente nada. Y por eso la postura de Yanis Varoufakis me parece muchísimo más acertada —y aunque como siempre uno no puede coincidir en todo con nadie— coincido bastante. La respuesta es Europa, democratizar europa, hacerlo más aun, y crear una europa social y competitiva, y que de verdad destile valores Europeos [^1]. Para para conseguir eso hay qeu trabajarlo, no va a llegar solo ni nadie lo va a regalar. Y por volver a esos _estados-naciones_ no vamos a tener mejores valores —puedes ver lo está pasando con el Brexit y las razones por las que se ha gestado. 
 
 ------
 
-El resto del articulo es interesante, pero muy debatible... y no tiempo para mucho más —podría dar para un par de días de debate, necesito otro café :coffee:, tengo otras cosas que hacer y creo que ya he invertido suficientemente en esto. 
+El resto del articulo es interesante, pero muy debatible... y no tiempo para mucho más —podría dar para un par de días de debate, necesito otro café :coffee:, tengo otras cosas que hacer y creo que ya he invertido suficientemente en esto. 
 
 
 
