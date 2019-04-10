@@ -6,43 +6,57 @@ headerImage: true
 tags: [EU, euro-escepticismo]
 ---
 
-Este post trata de ser un poco continuación al anterior sobre el euro-escepticismo y porqué creo que no tiene ningún sentido. 
+El otro día alguien argumentaba que el articulo ~~13~~ 17 causaría más Euro-escepticismo. Este artículo trata de hacer un _follow up_ en esa linea. 
 
-Que vaya por delante que: 
+Vaya por delante, que cada uno puede pensar lo que quiera, y prácticamente decir —y tal vez hacer— lo que quiera. En eso consiste la libertad de pensamiento, expresión y demás. Que entiendo, que las ideas políticas, muchas veces o casi siempre, son más fruto de los sentimientos que de la razón. Y que esto causa que la gente se identifique a si mismo con sus ideas políticas muchas veces. En otras palabras, cuando criticas una de sus ideas, parece que estás criticando a la persona, y en realidad no es así. 
 
-1. Cada uno puede pensar lo que quiera y decir prácticamente lo que quiera. En eso consiste la libre expresión y la libertad de pensamiento. 
-2. Entiendo que los pensamientos políticos a veces son muy complejos y responden muchas veces —si no la mayoría— más a los sentimientos que a la razón. Esto hace que en muchas ocasiones no haya una lógica real detrás de ellos. Más bien suele ser en el otro sentido. Uno tiene unos sentimientos políticos y tratas de buscarles lógica. 
-3. El el que las ideas políticas estén más dentro del terreno de los sentimientos que de la razón hace que mucha gente los confunda consigo mismos al considerarlos valores fundamentales. Y esto pasa cada vez más... cuando en realidad no es así. Tu no eres tus ideas. La consecuencia de esto es que las personas se sienten atacadas cuando se critica sus ideas. 
+En euro-escepticismo, y su vertiente más radical, el anti-europeismo, entran a mi modo de ver, dentro de esa categoría de pensamientos políticos. Muy viscerales, y que tienen poca lógica, por no decir ninguna. Son **en mi humilde opinión**, y por decirlo de una manera muy bestia, **estúpidos**. 
 
-Establecido lo anterior... tengo que decir que **en mi opinión** el euro-escepticismo, o el anti-europeismo, es **estúpido**. Y lo es por varias razones. 
+Y no me malinterpretéis, llamando al asunto estúpido, no quiero ofender a nadie, e iniciar una [escalada dialectal](https://medium.com/s/story/its-not-enough-to-be-right-you-also-have-to-be-kind-b8814111fe1) como la que aquí se denuncia. Sino que me refiero a la [acepción número uno](https://dle.rae.es/?id=H2davi5) de la palabra en castellano —_necio, falto de inteligencia_— y de la definición en [inglés](https://en.wiktionary.org/wiki/stupid#Adjective) —_lacking in intelligence or exhibiting the quality of having been done by someone lacking in intelligence_.
 
-## Es infantil
+Y lo es por varias razones: 
 
-El euro-escepticismo pertenece a lo que yo empiezo a denominar ideologías infantiles. Y me refiero a todas estas ideologías que lo que buscan en echarle la culpa a un tercero de los problemas propios, ya sean personales, locales, estatales o culturales. Trata de escapar de la responsabilidad de las acciones que le han llevado a estar en la situación actual. 
+## Infantilismo
 
-> _[Yo no he sido, ya estaba así cuando llegué](https://www.youtube.com/watch?v=CtVteemLin4)_
+El euro-escepticismo tienen un carácter bastante infantil en la mayoría de su variantes ya que trata de no asumir responsabilidades y utilizar Europa —_Bruselas_— como _cabeza de turco_ de todo lo malo que ocurre. El problema es que la realidad es bien distinta, y aunque las políticas que se implementan a nivel europeo afectan a los distintos estos miembros —sino no se implantarían— los estados tienen mucha manga ancha, el menos de momento, para hacer lo que les de la gana. Es más, muchas veces ese es el problema, que unos estados hacen las cosas bien y otros... 
 
-Esto es algo que se ha visto claramente como consecuencia del #Brexit, ya que ha quedado bien patente que el problema que tiene UK no es es la Unión Europea, si no que son ellos mismos que no son capaces de ponerse de acuerdo en anda. Y eso, creo que ahora mismo no es más que el primero de sus problemas. 
+Prueba de esto se está viendo claramente durante el proceso del #Brexit™, ya que ha quedado bien patente que el problema que tiene UK no es es la Unión Europea, si no que son el los mismos que no son capaces de ponerse de acuerdo en absolutamente en nada. Y eso, creo que ahora mismo no es más que el primero de sus problemas. Tal y como comenta esté humorista: 
 
-https://www.youtube.com/watch?v=-IL2XwSkFJQ&t
+https://www.youtube.com/watch?v=-IL2XwSkFJQ
 
-Está bien claro que ver _la paja en el ojo ajeno_, es mucho más fácil que verla en el propio. Es mucho más fácil el buscarse un _cabeza de turco_, que el hacer un análisis detallado y sosegado de la situación. Y es aun mucho más fácil el _hacerse la victima_ que el tomar la responsabilidad de tus propias acciones que te han llevado a estar en una situación determinada. Es algo muy curioso, pero siempre somos responsables de lo bueno, pero nunca de lo malo. Lo malo siempre es responsable _Bruselas_, los inmigrantes, los negros, los musulmanes, los rojos, los verdes, los judíos, los de izquierdas, los de derechas o _ponga aquí lo que más rabia le de_. 
+_Ver la paja en el ojo ajeno_ —y no en el propio— _victimizarse_, buscar un _cabeza de turco_, decir que eres diferente a los demás y necesitas un trato especial[^1] —_Spain is different_— y echar a la culpa a los inmigrantes, los negros, los musulmanes, los rojos, los verdes, los judíos, los de izquierdas, los de derechas o _ponga aquí lo que más rabia le de_ es muy fácil. Mucho más que hacer un análisis sosegado de la situación y tomar la responsabilidad de tus propias acciones que te han llevado a estar en una situación determinada. 
 
-Y es curioso, porque muchos de estos grupos lo que dicen que pretenden es _querer volver a tomar el control_, que ha sido uno de los lemas mas utilizado en el #Brexit. Sin embargo, no hay nada mejor para poder retomar el control que reconocer la responsabilidad que tenemos —que no la culpabilidad[^1]— en la situación en la que nos encontramos. Es un cambio de perspectiva interesante, que _empodera_, ya que cuando nos damos cuenta de lo responsables que somos, nos damos cuenta de las herramientas que tenemos a nuestra disposición para cambiar y mejorar las cosas. 
+<a class="embedly-card" href="https://www.reddit.com/r/unitedkingdom/comments/bb5q24/conditions_for_short_brexit_delay_have_not_been/ekgimqz">Card</a>
+<script async src="//embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script>
 
-## Culturalismo
+## Somos diferentes
 
-El _culturalismo_, como algunos lo denominan, es la versión cultural del racismo, aunque creo que el termino correcto sería _[racismo cultural](https://en.wikipedia.org/wiki/Cultural_racism)_. En otras palabras, consiste en pensar que una persona —o grupo— es inferior —o superior— por pertenecer a una cultura u otra. En este sentido, el debate puede ser largo y tendido, sobre todo si entramos a valorar si hay un _ranking_ de culturas. En mi opinión, si existen culturas que pueden ser mejores que otras, o que al menos pueden ser de _mayor utilidad_ ya que una cultura no deja de ser un conjunto de ideas con las que se trata de dar sentido al mundo que nos rodea. En ese sentido hay culturas que son más dinámicas y que presentan un conjunto de valores que fomentan el avance de la humanidad, mientras que otras son más estáticas. 
+Hemos pasado de ser racistas a ser _culturistas_. Bueno a lo mejor somos racistas, y ahora también somos _culturistas_, o lo usamos como excusa. Y con _culturismo_[^2], me refiero al [racismo cultural](https://en.wikipedia.org/wiki/Cultural_racism)[^3]. En otras palabras, consiste en pensar que una persona —o grupo— es inferior —o superior— por pertenecer a una cultura —AKA religión[^4] en algunas ocasiones— u otra. Y además también asume que, esas personas no pueden sufrir un proceso de adaptación cultural, cambio o evolución, así como que ellos y su cultura no tienen porque adaptarse, pertenecen a una cultura superior y no tienen porque evolucionar.  
 
-Lo bueno que tienen las culturas es que son mucho más dinámicas que los genotipos, y que puede cambiar absolutamente en unos pocos años. Mientras que el material genético de los humanos a variado bien poco en los últimos 70000 años o más, nuestras culturas se ha diversificado y evolucionado increíblemente. Hemos pasado de ser cazadores recolectores sin prácticamente capacidad de transmitir información a tener un cuerpo de conocimiento tremendamente basto. Es más, en algunas regiones del planeta esta evolución cultural ha pasado en un periodo reciente, como por ejemplo en el norte de Europa, en los casos de las tribus [Finlandesas](https://en.wikipedia.org/wiki/History_of_Finland#Finland_under_Swedish_rule) y [Samis](https://en.wikipedia.org/wiki/Sámi_history), o en [Papua Nueva Guinea](https://en.wikipedia.org/wiki/History_of_Papua_New_Guinea). 
+Estas dos premisas son claramente estúpidas y aunque la explicación de la estupidez está ahora mismo en algunos aspectos a debate y podría dar tranquilamente para otro post, se podría resumir de la manera siguiente: 
 
-Esto demuestra que las personas, los individuos, no son sus culturas, y que incluso a lo largo de su vida, esta cultura puede cambiar o evolucionar, si está persona si así lo desea... 
+1. Las [razas no existen](https://en.wikipedia.org/wiki/Race_(human_categorization) y son una construcción social. En otras palabras los humanos somos prácticamente iguales los unos a los otros, y aunque individualmente nos podemos diferenciar mucho los unos de los otros, la realidad es que grupalmente no tanto. 
+2. Eso quiere decir que las razones por las que somos culturalmente ~~tan~~ distintos los unos de los otros, y por las que ciertos lugares del planeta han tenido un desarrollo cultural mayor que otros son mayoritariamente biogeográficas. Tal y como propone [Jared Diamond][JaredDiamond] propone en en su libro [Guns, Germs and Steel](https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel). 
+3. La diversidad cultural no es solo fruto de la increíble cantidad de barreras geográficas que tienen nuestro planeta, y que prácticamente eran infranqueables hasta hace bien poco, sino que los propios humanos decidimos el crear barreras _artificiales_, como pueden ser fronteras, lenguas, religiones, que han acentuado nuestras diferencias.
+4. Todas estas barreras, debido al desarrollo tecnológico y social, están poco a poco desapareciendo, y estamos tendiendo a la unificación de la cultura humana. 
+5. La cultura no es algo estático, sino que más bien todo lo contrario. Hay culturas que han evolucionado mucho y otras no lo han hecho tanto, o prácticamente nada, y como ya hemos dicho esto es por razones biogeográficas. Esta evolución puede ser muy rápida, o puede ser muy lenta. Puede ocurrir a lo largo de milenios o puede ocurrir en un par de décadas, y hay numerosos ejemplos de ello a lo largo de la historia y de la prehistoria. Lo que es más, creo que todos nosotros hemos visto numerosos cambios culturales en nuestro entorno durante nuestras vidas y nos hemos poco a poco adaptado a ellos. Los seres humanos somos tremendamente adaptables, culturalmente hablando. 
 
-Además hay que tener en cuenta que las culturas, son producto de las barreras, naturales o artificiales, que existían a lo largo y ancho del mundo. Con las caída y desaparición, poco a poco, de esas barreras debido al desarrollo tecnológico de la humanidad, esa disparidad cultural irá desapareciendo. Nos guste o no. 
+Todo esto lo que quiere decir es que como individuos podemos cambiar nuestra cultura, si es que así lo deseamos, ya que somos adaptables. También significa que no hay culturas mejores o peores, sino que culturas que son fruto de un medio y un momento determinado. Algunas de ellas han proporcionado herramientas muy valiosas para incrementar el desarrollo humano, científico, económico y social, y por lo tanto sus individuos se han adaptado mucho mejor al medio y finalmente se han expandido. Pero eso no quiere decir que no tengamos que seguir evolucionando, más bien todo lo contrario, siempre y cuando conservemos una base cultural que continúe permitiendo ese desarrollo. 
 
-Esto a vienen a demostrar que la idea que tienen muchos euro-escépticos de que los europeos nunca nos podremos entender entre nosotros porque somos demasiado dispares —_Spain is different_— culturalmente o al menos creemos serlo, no tenemos una lengua común —como los Estados Unidos— o que hemos estado siempre en guerra, 
+La diversidad cultural europea, proporcionada por su diversidad y posición geográficas, le permitió en un momento dado colocarse en la _cúspide de la pirámide cutural_ hace algo más de 500 años. El conservar esa diversidad y al mismo tiempo continuar con el proceso de unificación cultural que va a ser inevitable en las próximas décadas para poder conservar los valores que que nos han ayudado a alcanzar este desarrollo y probablemente, crear otros nuevos, es lo que va a hacer grande a Europa. 
 
-es falsa y una falacia. La realidad es que a muchos de nosotros nos cuesta entender el mundo, y Europa, sin una Europa unida. 
+Si la mezcla de culturas causada fundamentalmente por la inmigración, fue uno de los factores más importantes que convirtió a los Estados Unidos en una potencia en el siglo XX, cabe pensar que en Europa pasaría algo parecido y aun más interesante teniendo en cuenta que esta vez las no se va a fusionar una versión descafeinada de las distintas culturas causadas por la inmigración a otro lugar, sino que va ser los elementos originales. 
+
+**No somos tan distintos, lo que es más, no somos distintos** cuando en realidad nos analizamos objetivamente. Simplemente nos empeñamos en serlo por tradición, y la tradición son esos elementos culturales que nos permiten hacer algo, que probablemente no sea muy lógico, sin realmente pensar si tienen sentido. Es una excusa para no pensar. Una trampa. 
+
+## Antes y después de la EU y el €
+
+Hay mucha gente que basa su anti-europeismo en que antes de la entrada en la Unión Europea y la adopción del Euro se vivía mejor. La realidad es que no, hay a muchos que se le han olvidado de todos los problemas que tenían los distintas economías de los países antes de la entrada 
+
+
+## Europa es un proyecto neo-liberal
+
+_Ver la paja en el ojo ajeno_ —y no en el propio— _victimizarse_, buscar un _cabeza de turco_, decir que eres diferente a los demás y necesitas un trato especial —_Spain is different_— y echar a la culpa a los inmigrantes, los negros, los musulmanes, los rojos, los verdes, los judíos, los de izquierdas, los de derechas o _ponga aquí lo que más rabia le de_ es muy fácil. Mucho más que hacer un análisis sosegado de la situación y tomar la responsabilidad de tus propias acciones que te han llevado a estar en una situación determinada
 
 <figure> 
 	<a href="https://i.redd.it/6txaybauwaq21.jpg">
@@ -50,7 +64,10 @@ es falsa y una falacia. La realidad es que a muchos de nosotros nos cuesta enten
 	<figcaption>Los acantilados de Dover donde recientemente se proyecto una bandera Europea como señal de socorro por el Brexit.</figcaption>
 </figure>
 
+[^1]: Todo el mundo es especial, y todo el mundo es el pueblo elegido y maravilloso. 
+[^2]: Este termino no me lo he sacado yo de la maga y es una traducción directa de _culturism_ que aparece en _[Sapiens](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind)_. 
+[^3]: No penséis que me refiero a tíos untados en aceite levantando mancuernas, _guarrillos_! 
+[^4]: No nos olvidemos el papel tan importante que ha jugado la religión hasta hace bien poco —y en algunos caso en la actualidad— en los desarrollos culturales. 
+[^5]: Que es básicamente, analizar la historia de la humanidad como si de otro animal se tratara usando la historia natural. 
 
-
-
-[^1]: Este es un tema sustantivo, y largo de explicar. Normalmente confundimos responsabilidad con culpabilidad y para nada con la misma cosa. Tu siempre eres responsable de tu vida, de ti mismo, y de la situación en la que te encuentras y de como cambiarla. Pero puede que no seas el culpable. 
+[JaredDiamond]: https://en.wikipedia.org/wiki/Jared_Diamond
