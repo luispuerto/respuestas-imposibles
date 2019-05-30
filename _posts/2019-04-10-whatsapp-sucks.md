@@ -3,7 +3,7 @@ title: "WhatsApp Sucks"
 date: 2019-04-10 15:04:25 +0100
 image: https://imgur.com/3xAvKXF.jpg
 headerImage: true
-tags: [EU, copyright, euro-escepticismo]
+tags: [politica, grupo, comunicacion, whatsapp]
 ---
 
 ![Please... DON'T](https://imgur.com/yZVaSCf.jpg){: .align-center}
